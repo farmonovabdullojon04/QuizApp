@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="docs/logo.png" alt="QuizApp logo" width="120"/>
-
 # 🧠 QuizApp — Mantiqiy Testlar
 
 **Mantiq, zukkolik va topqirligingizni sinaydigan zamonaviy Android viktorina ilovasi**
