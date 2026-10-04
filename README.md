@@ -1,3 +1,6 @@
+<div align="center">
+
+
 # 🧠 QuizApp — Mantiqiy Testlar
 
 **Mantiq, zukkolik va topqirligingizni sinaydigan zamonaviy Android viktorina ilovasi**
