@@ -1,0 +1,344 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="start">Start</string>
+    <string name="resume">Resume</string>
+
+    <string name="user_name">Abdullojon</string>
+    <string name="user_id">ID-1809</string>
+    <string name="user_score">160</string>
+
+    <string name="banner_title">Mantiqiy Testlar Bilan Bilimingizni Sinang</string>
+    <string name="banner_subtitle">Fikrlashingiz va diqqatingizni sinash uchun qiziqarli mantiqiy savollar to\'plami.</string>
+    <string name="play_now">Boshlash</string>
+
+    <string name="search_hint">Mantiqiy testlarni qidirish...</string>
+    <string name="categories">Kategoriyalar</string>
+    <string name="recent_activity">So\'nggi faoliyat</string>
+
+    <string name="cat_logic">Mantiq</string>
+    <string name="cat_puzzles">Boshqotirma</string>
+    <string name="cat_wisdom">Zukkolik</string>
+    <string name="cat_topqirlik">Topqirlik</string>
+    <string name="cat_riddles">Topishmoqlar</string>
+
+    <string name="question_count_suffix">10 ta savol</string>
+
+    <string name="question_label">Savol:</string>
+    <string name="quit">Chiqish</string>
+    <string name="previous">Oldingisi</string>
+    <string name="skip">Tashlab o\'tish</string>
+    <string name="next">Keyingisi</string>
+    <string name="finish_quiz">Yakunlash</string>
+
+    <string name="your_score">Sizning Natijangiz</string>
+    <string name="congratulation">Tabriklaymiz!</string>
+    <string name="congratulation_sub">Ajoyib natija! Mantiqiy testni muvaffaqiyatli yakunladingiz.</string>
+    <string name="share">Ulashish</string>
+    <string name="back_to_home">Bosh Sahifaga</string>
+    <string name="skipped_hint">Tashlab ketilgan savolga qaytildi!</string>
+
+    <!-- CATEGORY 1: MANTIQ (10 Questions) -->
+    <string name="c1_q1">Nima olovda yonmaydi, suvda cho\'kmaydi?</string>
+    <string name="c1_q1_a">Yog\'och</string>
+    <string name="c1_q1_b">Qog\'oz</string>
+    <string name="c1_q1_c">Muz</string>
+    <string name="c1_q1_d">Tosh</string>
+
+    <string name="c1_q2">U sizga tegishli, lekin uni boshqalar sizdan ko\'p ishlatadi?</string>
+    <string name="c1_q2_a">Pul</string>
+    <string name="c1_q2_b">Uy</string>
+    <string name="c1_q2_c">Telefon</string>
+    <string name="c1_q2_d">Ism</string>
+
+    <string name="c1_q3">Savatda 10 ta tuxum bor. Uning tagi teshilib, 3 tasi tushib ketdi. Savatda nechta tuxum qoldi?</string>
+    <string name="c1_q3_a">7 ta</string>
+    <string name="c1_q3_b">3 ta</string>
+    <string name="c1_q3_c">qolmadi</string>
+    <string name="c1_q3_d">10 ta</string>
+
+    <string name="c1_q4">Yomg\'ir ostida soyabonsiz qolgan odamning sochi nega ho\'l bo\'lmadi?</string>
+    <string name="c1_q4_a">Yugurdi</string>
+    <string name="c1_q4_b">Shlyapa kiygan</string>
+    <string name="c1_q4_c">Kal edi</string>
+    <string name="c1_q4_d">Kuchli yomg\'ir emas edi</string>
+
+    <string name="c1_q5">Chap qo\'lingiz bilan ushlay olasiz-u, lekin o\'ng qo\'lingiz bilan ushlay olmaysiz. Bu nima?</string>
+    <string name="c1_q5_a">Chap quloq</string>
+    <string name="c1_q5_b">O\'ng tirsak</string>
+    <string name="c1_q5_c">O\'ng tizza</string>
+    <string name="c1_q5_d">Chap yelka</string>
+
+    <string name="c1_q6">Nima doim o\'sadi, lekin hech qachon kichraymaydi?</string>
+    <string name="c1_q6_a">Daraxt</string>
+    <string name="c1_q6_b">Soch</string>
+    <string name="c1_q6_c">Kredit</string>
+    <string name="c1_q6_d">Yosh</string>
+
+    <string name="c1_q7">Stolning 4 ta burchagi bor. Bittasi kesib tashlansa, nechta burchak qoladi?</string>
+    <string name="c1_q7_a">3 ta</string>
+    <string name="c1_q7_b">5 ta</string>
+    <string name="c1_q7_c">4 ta</string>
+    <string name="c1_q7_d">0 ta</string>
+
+    <string name="c1_q8">5 ta shamdan 2 tasini o\'chirsak, nechta sham qoladi?</string>
+    <string name="c1_q8_a">Qolmaydi</string>
+    <string name="c1_q8_b">3 ta</string>
+    <string name="c1_q8_c">2 ta</string>
+    <string name="c1_q8_d">5 ta</string>
+
+    <string name="c1_q9">Qaysi savolga hech qachon \"Ha\" deb javob berib bo\'lmaydi?</string>
+    <string name="c1_q9_a">Ochmisiz?</string>
+    <string name="c1_q9_b">Uxlayapsizmi?</string>
+    <string name="c1_q9_c">Tushunyapsizmi?</string>
+    <string name="c1_q9_d">Tirikmisiz?</string>
+
+    <string name="c1_q10">Daraxtda 10 ta qush bor. 1 tasini otsak, daraxtda nechta qush qoladi?</string>
+    <string name="c1_q10_a">9 ta</string>
+    <string name="c1_q10_b">10 ta</string>
+    <string name="c1_q10_c">1 ta</string>
+    <string name="c1_q10_d">0 ta</string>
+
+    <!-- CATEGORY 2: BOSHQOTIRMA (10 Questions) -->
+    <string name="c2_q1">Nechta oyda 28 kun bor?</string>
+    <string name="c2_q1_a">Fevral oyida</string>
+    <string name="c2_q1_b">6 ta oyda</string>
+    <string name="c2_q1_c">1 ta oyda</string>
+    <string name="c2_q1_d">Barcha 12 oyda</string>
+
+    <string name="c2_q2">Qaysi idishdan ovqat yeb bo\'lmaydi?</string>
+    <string name="c2_q2_a">Katta idishdan</string>
+    <string name="c2_q2_b">Quruq / Bo\'sh idishdan</string>
+    <string name="c2_q2_c">Yangi idishdan</string>
+    <string name="c2_q2_d">Shisha idishdan</string>
+
+    <string name="c2_q3">Qaysi so\'z doim xato yoziladi?</string>
+    <string name="c2_q3_a">Xato so\'zi</string>
+    <string name="c2_q3_b">Lug\'at</string>
+    <string name="c2_q3_c">Qiyin so\'z</string>
+    <string name="c2_q3_d">Savol</string>
+
+    <string name="c2_q4">Qorong\'i xonada gugurt, sham va kerosin chiroq bor. Birinchi nimani yoqasiz?</string>
+    <string name="c2_q4_a">Shamni</string>
+    <string name="c2_q4_b">Gugurtni</string>
+    <string name="c2_q4_c">Kerosin chiroqni</string>
+    <string name="c2_q4_d">Chiroqni</string>
+
+    <string name="c2_q5">2 ota va 2 o\'g\'il 3 ta olmani bo\'lishib yeyishdi. Har biriga bittadan tushdi. Bu qanday bo\'ldi?</string>
+    <string name="c2_q5_a">Mümkin emas</string>
+    <string name="c2_q5_b">Biri yemadi</string>
+    <string name="c2_q5_c">Bobo, ota va o\'g\'il edi</string>
+    <string name="c2_q5_d">Olmalarni kesishdi</string>
+
+    <string name="c2_q6">Soat 8 da uxlashga yotib, budilnikni 9 ga qo\'ydingiz. Necha soat uxlaysiz?</string>
+    <string name="c2_q6_a">1 soat</string>
+    <string name="c2_q6_b">9 soat</string>
+    <string name="c2_q6_c">13 soat</string>
+    <string name="c2_q6_d">8 soat</string>
+
+    <string name="c2_q7">Nima qancha ko\'p olinsa, shuncha katta bo\'ladi?</string>
+    <string name="c2_q7_a">Tosh</string>
+    <string name="c2_q7_b">Daraxt</string>
+    <string name="c2_q7_c">Chuqur</string>
+    <string name="c2_q7_d">Uy</string>
+
+    <string name="c2_q8">Qaysi qo\'l bilan choyni aralashtirgan ma\'qul?</string>
+    <string name="c2_q8_a">O\'ng qo\'l</string>
+    <string name="c2_q8_b">Chap qo\'l</string>
+    <string name="c2_q8_c">Qoshiq ushlangan qo\'l</string>
+    <string name="c2_q8_d">Qoshiq bilan</string>
+
+    <string name="c2_q9">Nima doim oldingizda bo\'ladi, lekin uni ko\'ra olmaysiz?</string>
+    <string name="c2_q9_a">Havo</string>
+    <string name="c2_q9_b">Kelajak</string>
+    <string name="c2_q9_c">Soya</string>
+    <string name="c2_q9_d">Ko\'zoynak</string>
+
+    <string name="c2_q10">Ot parallel ravishda nimani bosib o\'ta olmaydi?</string>
+    <string name="c2_q10_a">Devorni</string>
+    <string name="c2_q10_b">Daryoni</string>
+    <string name="c2_q10_c">O\'z soyasini</string>
+    <string name="c2_q10_d">Toshni</string>
+
+    <!-- CATEGORY 3: ZUKKOLIK (10 Questions) -->
+    <string name="c3_q1">Dunyodagi eng uzun daryo qaysi?</string>
+    <string name="c3_q1_a">Amazonka</string>
+    <string name="c3_q1_b">Nil</string>
+    <string name="c3_q1_c">Yanszi</string>
+    <string name="c3_q1_d">Missisipi</string>
+
+    <string name="c3_q2">O\'zbekistonda eng baland tog\' cho\'qqisi qaysi?</string>
+    <string name="c3_q2_a">Adelunga</string>
+    <string name="c3_q2_b">Hazrati Sulton</string>
+    <string name="c3_q2_c">Beshtor</string>
+    <string name="c3_q2_d">Chimyon</string>
+
+    <string name="c3_q3">Inson tanasidagi eng katta a\'zo qaysi?</string>
+    <string name="c3_q3_a">Jigar</string>
+    <string name="c3_q3_b">Yurak</string>
+    <string name="c3_q3_c">Teri</string>
+    <string name="c3_q3_d">Miya</string>
+
+    <string name="c3_q4">Dunyodagi eng tez yuguradigan hayvon qaysi?</string>
+    <string name="c3_q4_a">Arslon</string>
+    <string name="c3_q4_b">Gepard</string>
+    <string name="c3_q4_c">Qoplon</string>
+    <string name="c3_q4_d">Kenguru</string>
+
+    <string name="c3_q5">Quyosh tizimidagi eng katta planeta qaysi?</string>
+    <string name="c3_q5_a">Mars</string>
+    <string name="c3_q5_b">Saturn</string>
+    <string name="c3_q5_c">Yupiter</string>
+    <string name="c3_q5_d">Uran</string>
+
+    <string name="c3_q6">Inson yuragi bir daqiqada o\'rtacha necha marta uradi?</string>
+    <string name="c3_q6_a">30-40 marta</string>
+    <string name="c3_q6_b">60-80 marta</string>
+    <string name="c3_q6_c">100-120 marta</string>
+    <string name="c3_q6_d">150 marta</string>
+
+    <string name="c3_q7">Yorug\'lik tezligi sekundiga qancha kilometr?</string>
+    <string name="c3_q7_a">100,000 km/s</string>
+    <string name="c3_q7_b">200,000 km/s</string>
+    <string name="c3_q7_c">300,000 km/s</string>
+    <string name="c3_q7_d">500,000 km/s</string>
+
+    <string name="c3_q8">Qaysi metall xona haroratida suyuq holatda bo\'ladi?</string>
+    <string name="c3_q8_a">Simob</string>
+    <string name="c3_q8_b">Qrg\'oshin</string>
+    <string name="c3_q8_c">Oltin</string>
+    <string name="c3_q8_d">Mis</string>
+
+    <string name="c3_q9">Yerdagi eng chuqur botiq qaysi?</string>
+    <string name="c3_q9_a">Baykal</string>
+    <string name="c3_q9_b">Mariana botig\'i</string>
+    <string name="c3_q9_c">Kaspiy</string>
+    <string name="c3_q9_d">Puerto-Riko</string>
+
+    <string name="c3_q10">Birlashgan Millatlar Tashkiloti (BMT) qaysi yili tashkil etilgan?</string>
+    <string name="c3_q10_a">1941 yil</string>
+    <string name="c3_q10_b">1945 yil</string>
+    <string name="c3_q10_c">1950 yil</string>
+    <string name="c3_q10_d">1991 yil</string>
+
+    <!-- CATEGORY 4: TOPQIRLIK (10 Questions) -->
+    <string name="c4_q1">1 kg paxta og\'irmi yoki 1 kg temir?</string>
+    <string name="c4_q1_a">Temir</string>
+    <string name="c4_q1_b">Paxta</string>
+    <string name="c4_q1_c">Ikkalasi teng</string>
+    <string name="c4_q1_d">Bilmayman</string>
+
+    <string name="c4_q2">Samolyot chegarada halokatga uchradi. Omon qolganlarni qayerda dafn etishadi?</string>
+    <string name="c4_q2_a">Omon qolganlar dafn etilmaydi</string>
+    <string name="c4_q2_b">Chegarada</string>
+    <string name="c4_q2_c">Vatanida</string>
+    <string name="c4_q2_d">Shahar qabristonida</string>
+
+    <string name="c4_q3">Filni muzlatgichga qanday joylash mumkin?</string>
+    <string name="c4_q3_a">Muzlatgichni ochib, filni solib, yopiladi</string>
+    <string name="c4_q3_b">Fil sig\'maydi</string>
+    <string name="c4_q3_c">Bo\'laklarga bo\'lib</string>
+    <string name="c4_q3_d">Katta muzlatgich kerak</string>
+
+    <string name="c4_q4">Jirafani muzlatgichga qanday joylash mumkin?</string>
+    <string name="c4_q4_a">Muzlatgichni ochib, filni chiqarib, jirafani solib, yopiladi</string>
+    <string name="c4_q4_b">Jirafani bukib</string>
+    <string name="c4_q4_c">Sig\'maydi</string>
+    <string name="c4_q4_d">Shunchaki solib</string>
+
+    <string name="c4_q5">Arslon barcha hayvonlarni majlisga chaqirdi. Qaysi hayvon kelmadi?</string>
+    <string name="c4_q5_a">Ayiq</string>
+    <string name="c4_q5_b">Jirafa (chunki u muzlatgichda edi)</string>
+    <string name="c4_q5_c">Fil</string>
+    <string name="c4_q5_d">Quyon</string>
+
+    <string name="c4_q6">Timsohlar yashaydigan daryodan qanday o\'tish mumkin?</string>
+    <string name="c4_q6_a">Suzib o\'tsa bo\'ladi (chunki barcha timsohlar majlisda)</string>
+    <string name="c4_q6_b">Qayiqda</string>
+    <string name="c4_q6_c">O\'tib bo\'lmaydi</string>
+    <string name="c4_q6_d">Ko\'prikdan</string>
+
+    <string name="c4_q7">Odam 10-qavatda yashaydi. U doim 7-qavatgacha liftda chiqib, qolganini piyoda chiqadi. Nega?</string>
+    <string name="c4_q7_a">Sport uchun</string>
+    <string name="c4_q7_b">Tugmaga bo\'yi yetmaydi</string>
+    <string name="c4_q7_c">Lift buzuk</string>
+    <string name="c4_q7_d">Qo\'shnisini ko\'rish uchun</string>
+
+    <string name="c4_q8">Nimani yeb bo\'lmaydi, lekin tayyorlash mumkin?</string>
+    <string name="c4_q8_a">Ovqatni</string>
+    <string name="c4_q8_b">Darsni / Topshiriqni</string>
+    <string name="c4_q8_c">Mevani</string>
+    <string name="c4_q8_d">Choyni</string>
+
+    <string name="c4_q9">Toshkentdan Samarqandga poyezd ketmoqda. Tutuni qaysi tomonga esadi?</string>
+    <string name="c4_q9_a">Sharqqa</string>
+    <string name="c4_q9_b">G\'arbga</string>
+    <string name="c4_q9_c">Elektr poyezdida tutun bo\'lmaydi</string>
+    <string name="c4_q9_d">Shamol tomonga</string>
+
+    <string name="c4_q10">P p p p p p p p - bu nima?</string>
+    <string name="c4_q10_a">8 ta P harfi</string>
+    <string name="c4_q10_b">Parashut</string>
+    <string name="c4_q10_c">Poyga</string>
+    <string name="c4_q10_d">Pianino</string>
+
+    <!-- CATEGORY 5: TOPISHMOQLAR (10 Questions) -->
+    <string name="c5_q1">O\'zi oppoq, qor emas, tishi bor-u, og\'zi yo\'q. Bu nima?</string>
+    <string name="c5_q1_a">Sarmsoq / Piyoz</string>
+    <string name="c5_q1_b">Muz</string>
+    <string name="c5_q1_c">Sut</string>
+    <string name="c5_q1_d">Taroq</string>
+
+    <string name="c5_q2">O\'zi bitta, ko\'zi mingta. Bu nima?</string>
+    <string name="c5_q2_a">Elak</string>
+    <string name="c5_q2_b">Yulduz</string>
+    <string name="c5_q2_c">Taroq</string>
+    <string name="c5_q2_d">Ko\'zoynak</string>
+
+    <string name="c5_q3">Oyoqsiz yuradi, og\'izsiz so\'ylaydi. Bu nima?</string>
+    <string name="c5_q3_a">Xat / Maktub</string>
+    <string name="c5_q3_b">Shamol</string>
+    <string name="c5_q3_c">Daryo</string>
+    <string name="c5_q3_d">Radio</string>
+
+    <string name="c5_q4">Kunduzi uyda uxlardi, tunda ovga chiqardi. Bu nima?</string>
+    <string name="c5_q4_a">Mushuk</string>
+    <string name="c5_q4_b">Boyo\'g\'li</string>
+    <string name="c5_q4_c">Ko\'shapalak</string>
+    <string name="c5_q4_d">Bo\'ri</string>
+
+    <string name="c5_q5">Yer tagida oltin qoziq. Bu nima?</string>
+    <string name="c5_q5_a">Sabzi</string>
+    <string name="c5_q5_b">Karton</string>
+    <string name="c5_q5_c">Piyoz</string>
+    <string name="c5_q5_d">Shalgham</string>
+
+    <string name="c5_q6">Qanoti bor, qush emas, suvda suzar, baliq emas. Bu nima?</string>
+    <string name="c5_q6_a">O\'rdak</string>
+    <string name="c5_q6_b">Samolyot</string>
+    <string name="c5_q6_c">Kapalak</string>
+    <string name="c5_q6_d">Qayiq</string>
+
+    <string name="c5_q7">Uy ustida yashil bog\'. Bu nima?</string>
+    <string name="c5_q7_a">Oshqovoq</string>
+    <string name="c5_q7_b">Tarvuz</string>
+    <string name="c5_q7_c">Qovun</string>
+    <string name="c5_q7_d">Bodring</string>
+
+    <string name="c5_q8">Bir kichik uyda o\'n besh bola. Bu nima?</string>
+    <string name="c5_q8_a">Gugurt qutisi</string>
+    <string name="c5_q8_b">Yong\'oq</string>
+    <string name="c5_q8_c">Noxat</string>
+    <string name="c5_q8_d">Lobiya</string>
+
+    <string name="c5_q9">Jonli gul, uchib yurar, shoxlarga qo\'nib durar. Bu nima?</string>
+    <string name="c5_q9_a">Chivin</string>
+    <string name="c5_q9_b">Kapalak</string>
+    <string name="c5_q9_c">Arani</string>
+    <string name="c5_q9_d">Qush</string>
+
+    <string name="c5_q10">Uzun bo\'yli, qizil kiyimda, boshi yo\'q, oyog\'i yo\'q. Bu nima?</string>
+    <string name="c5_q10_a">Qalam</string>
+    <string name="c5_q10_b">Sabzi</string>
+    <string name="c5_q10_c">Ip</string>
+    <string name="c5_q10_d">Aylanma</string>
+</resources>
